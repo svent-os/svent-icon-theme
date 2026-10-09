@@ -3,6 +3,7 @@
 *.changes
 *.tar.*
 debian/svent-icon-theme/
+debian/sv-icon-theme/
 debian/.debhelper/
 debian/debhelper-build-stamp
 debian/files
