@@ -1,0 +1,13 @@
+Source: svent-icon-theme
+Section: x11
+Priority: optional
+Maintainer: z1rov <fabian@zirov.net>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.7.0
+Rules-Requires-Root: no
+
+Package: svent-icon-theme
+Architecture: all
+Depends: elementary-xfce-icon-theme, adwaita-icon-theme, librsvg2-common, ${misc:Depends}
+Description: Svent desktop icon theme
+ Scalable red and graphite icons for XFCE and other X11 desktops.
