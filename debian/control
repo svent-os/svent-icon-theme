@@ -11,5 +11,5 @@ Architecture: all
 Conflicts: svent-icon-theme
 Replaces: svent-icon-theme
 Depends: elementary-xfce-icon-theme, adwaita-icon-theme, librsvg2-common, ${misc:Depends}
-Description: Svent desktop icon theme
+Description: SventOS desktop icon theme
  Scalable red and graphite icons for XFCE and other X11 desktops.

@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Svent
-Comment=Svent red and graphite icons
+Name=SventOS
+Comment=SventOS red and graphite icons
 Inherits=elementary-xfce-dark,Adwaita,hicolor
 Example=folder
 Directories=scalable/places,scalable/apps,scalable/devices,scalable/categories,scalable/mimetypes,scalable/actions,scalable/status

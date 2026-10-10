@@ -1,3 +1,9 @@
+svent-icon-theme (0.1.3) unstable; urgency=medium
+
+  * Display SventOS as the icon theme name.
+
+ -- z1rov <fabian@zirov.net>  Fri, 09 Oct 2026 23:55:00 -0500
+
 svent-icon-theme (0.1.2) unstable; urgency=medium
 
   * Restore the original Firefox application icon through theme inheritance.
